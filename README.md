@@ -1,29 +1,21 @@
-# StockVisualizer 📊
+# StockVisualizer 📈
 
-**StockVisualizer** is a Python tool that helps visualize financial data. It provides features such as historical stock prices, volume, technical metrics, and interactive candlestick charts. Built with `yfinance` and `matplotlib`, this tool is ideal for stock data analysis and learning.
-
----
-
-## Features 🌟
-
-- **Stock Overview**: Displays current stock price, high/low values, average volume, and percentage change.
-- **Graphical Representation**: Generates a time-series line chart with historical data.
-- **Candlestick Chart**: Visualizes stock data using candlesticks for specific periods.
-- **Data Export**: Option to export data to CSV for further analysis (upcoming feature).
-- **Modular Code**: Future expansion plans include support for more financial indicators and portfolio tracking.
+**StockVisualizer** is a modular Python application for financial data visualization and analysis.  
+It uses **`yfinance`**, **`matplotlib`**, and **`numpy`** to provide real-time insights, interactive charts, and financial metrics.  
+Perfect for beginners and intermediate users interested in stock market data, portfolio analysis, or macroeconomic research.
 
 ---
 
-## Requirements ⚙️
+## 🚀 Features
 
-Before using **StockVisualizer**, make sure you have the following Python libraries installed:
+- 📊 **Stock Overview**: Current price, daily high/low, average volume, and percent change.
+- 📈 **Line & Candlestick Charts**: Visualize stock data over time, with custom date ranges.
+- 📦 **Modular Codebase**: Easily extend with new indicators, backtesting logic, or APIs.
+- 📤 **Data Export (Coming Soon)**: Export to CSV for Excel or R-based analysis.
+- 📉 **Future Add-ons**: Technical indicators (RSI, MACD), risk metrics (beta, volatility), and portfolio optimization.
 
-- `yfinance`
-- `matplotlib`
-- `numpy`
-- `pytz`
+---
 
-You can install them via `pip`:
+## 🧱 Folder Structure
 
-```bash
-pip install yfinance matplotlib numpy pytz
+
