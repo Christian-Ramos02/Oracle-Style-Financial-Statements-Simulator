@@ -25,7 +25,7 @@ This project was developed to practice financial modeling, accounting structure 
 
 ## 📂 Author
 
--Christian Yair Ramos Suárez
--Entry-Level Financial/Data Analyst
--Email: yairramos0202@hotmail.com
+- Christian Yair Ramos Suárez
+- Entry-Level Financial/Data Analyst
+- Email: yairramos0202@hotmail.com
 
