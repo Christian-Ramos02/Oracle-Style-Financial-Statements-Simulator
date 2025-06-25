@@ -23,7 +23,9 @@ This project was developed to practice financial modeling, accounting structure 
 - Matplotlib (for financial data visualization)  
 - Object-oriented structure and modular design  
 
-## 📂 File Structure
+## 📂 Author
 
-
+-Christian Yair Ramos Suárez
+-Entry-Level Financial/Data Analyst
+-Email: yairramos0202@hotmail.com
 
