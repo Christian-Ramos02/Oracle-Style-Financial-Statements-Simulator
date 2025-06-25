@@ -1,19 +1,29 @@
-# StockVisualizer 📈
+# Oracle-Style Financial Statements Simulator
 
-**StockVisualizer** is a modular Python application for financial data visualization and analysis.  
-It uses **`yfinance`**, **`matplotlib`**, and **`numpy`** to provide real-time insights, interactive charts, and financial metrics.  
-Perfect for beginners and intermediate users interested in stock market data, portfolio analysis, or macroeconomic research.
+A Python-based financial simulator with a graphical interface (GUI) that mimics key financial statements—Balance Sheet, Income Statement, and Cash Flow—using mock data inspired by enterprise software companies like Oracle.
 
----
+## 🧠 Purpose
 
-## 🚀 Features
+This project was developed to practice financial modeling, accounting structure analysis, and data visualization using real-world formats. It's designed for entry-level financial analysts and FP&A learners who want to bridge Python programming with corporate finance principles.
 
-- 📊 **Stock Overview**: Current price, daily high/low, average volume, and percent change.
-- 📈 **Line & Candlestick Charts**: Visualize stock data over time, with custom date ranges.
-- 📦 **Modular Codebase**: Easily extend with new indicators, backtesting logic, or APIs.
-- 📤 **Data Export (Coming Soon)**: Export to CSV for Excel or R-based analysis.
-- 📉 **Future Add-ons**: Technical indicators (RSI, MACD), risk metrics (beta, volatility), and portfolio optimization.
+## 💼 Features
 
+- 📊 Simulates Oracle-style financial statements using sample data.
+- 🧾 Fully structured **Balance Sheet**: Assets, Liabilities, and Equity.
+- 📈 **Income Statement**: Revenue, Operating Income, Net Income with detailed breakdowns.
+- 💵 **Cash Flow Statement**: Operating, Investing, and Financing activities.
+- ✅ Ensures the **accounting equation balance**: Assets = Liabilities + Equity.
+- 📌 Interactive GUI using **Tkinter** and **Matplotlib**.
+- 👁️ Visual dashboards with bar charts and formatted numerical outputs.
+
+## 🔧 Technologies Used
+
+- Python 3  
+- Tkinter (GUI)  
+- Matplotlib (for financial data visualization)  
+- Object-oriented structure and modular design  
+
+## 📂 File Structure
 
 
 
